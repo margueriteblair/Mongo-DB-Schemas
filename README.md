@@ -1,0 +1,1 @@
+Walking through Mongoose schemas on FCC.
